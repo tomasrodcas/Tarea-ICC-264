@@ -2,7 +2,7 @@
 Tarea Merge<br/>
 Integrantes<br/>
 -Tomas Rodriguez<br/>
--Felipe<br/>
+-Felipe Castro <br/>
 -Maximiliano Divin<br/>
 
 Actividades desarrolladas<br/>
